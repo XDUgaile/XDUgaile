@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-![Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=XDUgaile&show_icons=true&theme=transparent)
+![Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=XDUgaile)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=XDUgaile.XDUgaile&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=XDUgaile&left_color=green&right_color=red)
 
