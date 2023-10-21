@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am LeGai, currently studying School of cyber engineering, Xidian University, majoring incyber engineering， third year undergraduate.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
