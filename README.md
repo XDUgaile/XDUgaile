@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am LeGai, currently studying School of Cyber Engineering, Xidian University, majoring in cyber engineering, third year undergraduate.
+I am Le Gai, currently studying School of Cyber Engineering, Xidian University, majoring in cyber engineering, third year undergraduate.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
