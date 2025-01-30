@@ -10,6 +10,8 @@ I will conduct my **PhD program** at the Institute for Network Sciences and Cybe
 - 📫 How to reach me:**xdutanzhe@gmail.com**
 - 😄 **I'd like to make friends with you! If you have any questions, please contact me！**
 
+For more information, you may take a look at my [Homepage](https://xdugaile.github.io/).
+
 ![Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=XDUgaile)
 
 
